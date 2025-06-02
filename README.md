@@ -1,2 +1,12 @@
-# privacypolicy
-driving theory
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>This is the privacy policy for our mobile application.</p>
+  <p>We do not collect any personal data...</p>
+</body>
+</html>
